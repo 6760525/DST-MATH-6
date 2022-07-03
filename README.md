@@ -1,1 +1,1 @@
-"# DST-MATH-6" 
+# DST-MATH-6
